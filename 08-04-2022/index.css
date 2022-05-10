@@ -1,0 +1,14 @@
+.contaienr1{
+    margin-top: 100px;
+    /* margin: 40px; */
+    display: flex;
+    justify-content: space-between;
+    
+    flex-direction: row;
+}
+.box{
+    width: 200px;
+    height: 300px;
+    border: 5px solid red;
+    border-radius: 20px;
+}
